@@ -1,7 +1,7 @@
 ### ⚡ Angel Dominick Velasco ⚡
 
 
-**'Software Developer'** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`Digital Craftsman (Developer/Filmmaker/Creator)`** 
 
 Here are some ideas to get you started:
 
