@@ -1,7 +1,7 @@
 ### ⚡ Angel Dominick Velasco ⚡
 
 
-**AngelV02/AngelV02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**'Software Developer'** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
