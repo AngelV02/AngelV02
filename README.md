@@ -3,17 +3,21 @@
 
 **`Software Developer 🏄‍♂️`** 
 
-Here are some ideas to get you started:
+👋 Hello, World!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+I'm Angel Dominick Velasco, a passionate software developer who has recently graduated from a rigorous coding bootcamp. 🚀 Armed with a solid foundation in coding and a love for problem-solving, I'm excited to embark on this journey as a professional developer.
 
+🎓 Graduating from the coding bootcamp, I've honed my skills in various technologies such as HTML, CSS, JavaScript, and modern frameworks My experience also includes working on real-world projects, collaborating with teammates, and applying agile methodologies.
+
+🌟 My goal is to contribute to innovative and impactful projects that not only enhance my skills but also make a positive difference in the tech world. I thrive in dynamic environments where I can continuously learn and adapt to emerging technologies.
+
+💡 Curiosity is my driving force, and I'm always eager to explore new horizons and learn from experienced developers. I'm ready to take on challenges, contribute fresh perspectives, and bring creative solutions to the table.
+
+When I'm not immersed in code, you'll find me working on my physical health, I love getting my day started at 5am to go the gym to go work on myself. Other than that I'm excited to connect with fellow developers, collaborate on exciting projects, and contribute to the ever-evolving world of software development.
+
+Let's build something amazing together! Feel free to reach out to me at angeldominickv@gmail.com or connect with me on [https://www.linkedin.com/in/angel-velasco-2481b4261/].
+
+Happy coding! 🚀
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/angel-velasco-2481b4261) 
